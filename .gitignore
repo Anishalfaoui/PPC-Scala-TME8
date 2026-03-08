@@ -1,0 +1,29 @@
+*.pdf
+EXPLICATION_PROJET.md
+
+# SBT build outputs
+target/
+project/target/
+project/project/
+
+# SBT specific
+.bsp/
+.cache/
+.history
+.lib/
+dist/*
+*.log
+*.DS_Store
+
+# Ivy cache
+.ivy2/
+.sbt/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Class files
+*.class
+*.jar
